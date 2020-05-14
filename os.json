@@ -1,0 +1,15 @@
+{
+    "description": "Debian Buster Lite for the Raspberry Pi (Pixel desktop version)",
+    "kernel": "4.19",
+    "name": "DEMO 1.3",
+    "password": "heater007",
+    "release_date": "2020-04-03",
+    "supported_models": [
+        "Pi 3",
+        "Pi 4",
+        "Pi Compute Module 3"
+    ],
+    "url": "http://www.raspbian.org/",
+    "username": "pi",
+    "version": "Buster Lite"
+}
