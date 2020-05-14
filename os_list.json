@@ -4,12 +4,12 @@
             "description": "Custom made Desktop for MMI software",
             "download_size": 1046478848,
             "feature_level": 35120124,
-            "icon": "http://homepage.tudelft.nl/b0k7h/DEMO/DEMO.png",
+            "icon": "https://github.com/rajeevbreddy/DEMO/raw/master/DEMO.png",
             "nominal_size": 3209,
-            "os_info": "http://homepage.tudelft.nl/b0k7h/DEMO/os.json",
+            "os_info": "https://github.com/rajeevbreddy/DEMO/raw/master/os.json",
             "os_name": "Raspbian",
-            "partition_setup": "http://homepage.tudelft.nl/b0k7h/DEMO/partition_setup.sh",
-            "partitions_info": "http://homepage.tudelft.nl/b0k7h/DEMO/partitions.json",
+            "partition_setup": "https://github.com/rajeevbreddy/DEMO/raw/master/partition_setup.sh",
+            "partitions_info": "https://github.com/rajeevbreddy/DEMO/raw/master/partitions.json",
             "release_date": "2020-02-13",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
@@ -21,8 +21,8 @@
                 "Pi 4"
             ],
             "tarballs": [
-                "http://homepage.tudelft.nl/b0k7h/DEMO/boot.tar.xz",
-                "http://homepage.tudelft.nl/b0k7h/DEMO/root.tar.xz"
+                "https://github.com/rajeevbreddy/DEMO/raw/master/boot.tar.xz",
+                "https://github.com/rajeevbreddy/DEMO/raw/master/root.tar.xz"
             ]
         }
     ]
