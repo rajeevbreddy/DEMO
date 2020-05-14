@@ -1,0 +1,12 @@
+{
+	"repo_list" : [
+		{
+			"name" : "NOOBS",
+			"url"  : "http://downloads.raspberrypi.org/os_list_v3.json"
+		},
+		{
+			"name" : "DEMO",
+			"url"  : "https://github.com/rajeevbreddy/DEMO/raw/master/os_list.json"
+		}
+	]
+}
